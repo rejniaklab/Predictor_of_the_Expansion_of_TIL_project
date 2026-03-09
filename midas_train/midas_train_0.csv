@@ -1,4 +1,4 @@
-Unnamed: 0,Age_at_Surgery,BMI,Sample_weight_g_tumor,Tumor_digest_count_primary_tumor,Race,Surgery,Smoker,NAC,cT,pT,cT_or_pT,pN,Bx_Histology,Histology,Number_of_fragments_plated_tumor,OverallTILGrowth
+Unnamed: 0,Age_at_Surgery,BMI,Sample_weight,Tumor_digest_count,Race,Surgery,Smoker,NAC,cT,pT,cT_or_pT,pN,Bx_Histology,Histology,Fragments_plated,OverallTILGrowth
 0,77.0,23.17,0.84,3020000.0,1.0,1.0,0.0,1.0,4.0,9.0,9.0,0.0,1.0,1.0,6.0,1.0
 1,81.0,28.58,0.18000000000000016,1420000.0,1.0,2.0,1.0,0.0,1.0,11.0,1.0,0.0,1.0,11.0,9.0,0.0
 2,84.0,28.11,0.07000000000000006,350000.0,1.0,1.0,0.0,0.0,1.0,9.0,9.0,4.0,4.0,6.0,12.0,1.0

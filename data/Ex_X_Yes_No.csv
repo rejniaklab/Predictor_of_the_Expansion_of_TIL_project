@@ -1,4 +1,4 @@
-Age_at_Surgery,Race,Surgery,Smoker,BMI,NAC,cT,pT,cT_or_pT,pN,Bx_Histology,Histology,Sample_weight_g_tumor,Tumor_digest_count_primary_tumor,Number_of_fragments_plated_tumor
+Age_at_Surgery,Race,Surgery,Smoker,BMI,NAC,cT,pT,cT_or_pT,pN,Bx_Histology,Histology,Sample_weight,Tumor_digest_count,Fragments_plated
 72,1,2,0,27.87,0.0,3,,3,,1.0,,0.085,0.0,5
 71,1,1,1,31.25,1.0,4,5.0,5,0.0,1.0,1.0,32.0,333000000.0,12
 71,1,1,1,31.22,1.0,4,2.0,4,0.0,1.0,1.0,0.164,0.0,6
