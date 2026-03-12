@@ -1,4 +1,4 @@
-# PETIL: A Machine Learning Predictor of the Expansion of Tumor Infiltrating Lymphocytes for Bladder Tumor Stratification for the Adoptive Cell Therapy 
+# PETIL: Predicting Expansion of Tumor Infiltrating Lymphocytes for the Adoptive Cell Immunotherapy in Bladder Cancers
 
 One major advance in treating solid tumors is the success of adoptive cell therapy (ACT), in which autologous tumor-infiltrating lymphocytes (TILs) are expanded and activated ex vivo and then reinfused into the cancer patient. 
 
